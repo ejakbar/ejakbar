@@ -89,6 +89,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/rafliaditya0125/rafliaditya0125/output/snake.svg" alt="Snake animation" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzaj/maurodesouzaj/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzaj/maurodesouzaj/output/pacman-contribution-graph.svg">
