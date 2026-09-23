@@ -89,6 +89,21 @@
 
 ###
 
+<h3 align="left">My Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rasyakt&show_icons=true&theme=dracula&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.vercel.app?user=rasyakt&theme=dracula&hide_border=false&border_radius=8" height="180" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rasyakt&theme=dracula&hide_border=false&border_radius=8&layout=compact" height="165" alt="Top Languages" />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rasyakt/rasyakt/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rasyakt/rasyakt/output/pacman-contribution-graph.svg">
